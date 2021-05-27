@@ -1,0 +1,166 @@
+[
+  {
+    "code": "C15",
+    "question": "ES UN COLEGIO O ESCUELA"
+  },
+  {
+    "code": "C16",
+    "question": "ES UN CENTRO EDUCATIVO"
+  },
+  {
+    "code": "C18",
+    "question": "VENDE COMIDA PREPARADA: FRITOS,DESAYUNO"
+  },
+  {
+    "code": "C21",
+    "question": "ES UN HOTEL, MOTEL O RESIDENCIA"
+  },
+  {
+    "code": "C36",
+    "question": "EXISTE 4 O MÁS PDV CON EL MISMO NOMBRE"
+  },
+  {
+    "code": "C51",
+    "question": "PRECIO DE HABITACIÓN MAYOR A 400"
+  },
+  {
+    "code": "C24",
+    "question": "ES UNA INSTITUCIÓN DE CARACTER PÚBLICA"
+  },
+  {
+    "code": "C29",
+    "question": "ES UNA FABRICA O BODEGA"
+  },
+  {
+    "code": "C26",
+    "question": "MAYORÍA DE LA VENTA SE HACE AL POR MAYOR"
+  },
+  {
+    "code": "C30",
+    "question": "ES UNA OFICINA/CONSULTORIO"
+  },
+  {
+    "code": "C34",
+    "question": "ES UN HOSPITAL O CENTRO DE SALUD"
+  },
+  {
+    "code": "C39",
+    "question": "ES UN CINE O TEATRO"
+  },
+  {
+    "code": "C40",
+    "question": "EN EL PDV PRÁCTICAN DEPORTE"
+  },
+  {
+    "code": "C25",
+    "question": "TIENE HORNO PARA LA FABRICACIÓN DE PAN"
+  },
+  {
+    "code": "C43",
+    "question": "EL PDV ES ESPECIALIZADO EN COMIDA RÁPIDA"
+  },
+  {
+    "code": "C37",
+    "question": "ESTOS PDV ESTAN EN LA MISMO DEPARTAMENTO"
+  },
+  {
+    "code": "C52",
+    "question": "PRECIO GASEOSA/SODA PERSONAL MAYOR 4000"
+  },
+  {
+    "code": "C02",
+    "question": "PREDOMINAN LOS MEDICAMENTOS O LO NATURAL"
+  },
+  {
+    "code": "C47",
+    "question": "TIENE TRES O MÁS MESAS"
+  },
+  {
+    "code": "C33",
+    "question": "TIENE CARTA DE PLATOS Y LISTA DE PRECIOS"
+  },
+  {
+    "code": "C35",
+    "question": "EXISTEN MÁS PDV CON EL MISMO DE NOMBRE"
+  },
+  {
+    "code": "C22",
+    "question": "VENDE MENÚ DEL DÍA"
+  },
+  {
+    "code": "C07",
+    "question": "PREDOMINA LA CANASTA FAMILIAR"
+  },
+  {
+    "code": "C05",
+    "question": "PREDOMINA VENTA DE LICOR Y/O CIGARRERÍA"
+  },
+  {
+    "code": "C23",
+    "question": "TIENE PISTA DE BAILE"
+  },
+  {
+    "code": "C06",
+    "question": "LO ÚNICO QUE VENDE ES CERVEZA Y GASEOSA"
+  },
+  {
+    "code": "C01",
+    "question": "PREDOMINAN LOS SNACKS Y LA CONFITERÍA"
+  },
+  {
+    "code": "C03",
+    "question": "PREDOMINAN DESECHABLES Y/O CARNES FRIAS"
+  },
+  {
+    "code": "C38",
+    "question": "LAS VENTAS DEL PDV SON AUTOSERVICIO"
+  },
+  {
+    "code": "C32",
+    "question": "TIENE 4 O MÁS CAJAS REGISTRADORAS"
+  },
+  {
+    "code": "C41",
+    "question": "EL PRODUCTO SE EXHIBE EN ESTIBA"
+  },
+  {
+    "code": "C28",
+    "question": "VENDE NEVERAS, LAVADORAS Y TELEVISORES"
+  },
+  {
+    "code": "C42",
+    "question": "EL PRODUCTO SE EXHIBE EN CAJA DE CARTÓN"
+  },
+  {
+    "code": "C31",
+    "question": "HAY EN PROMEDIO +15 REFERENCIAS DE CAFÉ"
+  },
+  {
+    "code": "C14",
+    "question": "MÁS DE 2 PERSONAS REALIZAN DOMICILIOS"
+  },
+  {
+    "code": "C13",
+    "question": "LA MAYORIA DE LAS VENTAS SON A DOMICILIO"
+  },
+  {
+    "code": "C12",
+    "question": "EL PDV SE ATIENDE POR MEDIO DE UNA REJA"
+  },
+  {
+    "code": "C17",
+    "question": "EL PDV ES UNA CHAZA O KIOSKO"
+  },
+  {
+    "code": "C11",
+    "question": "TIENE EXHIBICIÓN ÁEREA Y MUEBLE SNACKS"
+  },
+  {
+    "code": "C04",
+    "question": "PREDOMINA VENTA DE REGALOS Y PAPELERÍA"
+  },
+  {
+    "code": "C09",
+    "question": "VENDE HUEVOS, ARROZ,ACEITE O LEGUMBRES"
+  }
+]

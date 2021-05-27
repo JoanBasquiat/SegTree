@@ -1,0 +1,62 @@
+[
+  {
+    "code": "00",
+    "description": "SIN MACROSEGMENTO"
+  },
+  {
+    "code": "01",
+    "description": "AUTOSERVICIOS"
+  },
+  {
+    "code": "02",
+    "description": "AUTOVENTA"
+  },
+  {
+    "code": "03",
+    "description": "ESPECIALES"
+  },
+  {
+    "code": "04",
+    "description": "FSL"
+  },
+  {
+    "code": "05",
+    "description": "HOGAR"
+  },
+  {
+    "code": "06",
+    "description": "INSTITUCIONAL"
+  },
+  {
+    "code": "07",
+    "description": "MAYORISTAS"
+  },
+  {
+    "code": "08",
+    "description": "MODERNO"
+  },
+  {
+    "code": "09",
+    "description": "PREMIUM"
+  },
+  {
+    "code": "10",
+    "description": "TAT OFF"
+  },
+  {
+    "code": "11",
+    "description": "TAT ON"
+  },
+  {
+    "code": "12",
+    "description": "CONJUNTOS"
+  },
+  {
+    "code": "13",
+    "description": "EVENTOS"
+  },
+  {
+    "code": "14",
+    "description": "OTROS"
+  }
+]

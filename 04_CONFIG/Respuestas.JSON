@@ -1,0 +1,132 @@
+{
+  "CodigoCliente": "026908",
+  "CodigoPlanta": "1229",
+  "FechaEncuesta": "2021-05-05 09:00:00",
+  "EncuestaCliente": [
+    {
+      "CodigoPregunta": "C100",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C15",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C16",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C18",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C36",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C21",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C24",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C26",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C30",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C31",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C32",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C33",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C34",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C35",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C36",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C37",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C38",
+      "RespuestaEncuesta": "SI",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C39",
+      "RespuestaEncuesta": "SI",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C40",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C42",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C43",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C44",
+      "RespuestaEncuesta": "NO",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C46",
+      "RespuestaEncuesta": "SI",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C40",
+      "RespuestaEncuesta": "SI",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    },
+    {
+      "CodigoPregunta": "C45",
+      "RespuestaEncuesta": "SI",
+      "UsuarioPregunta": "2021-05-05 09:00:00"
+    }
+  ]
+}
